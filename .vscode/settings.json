@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "/home/aidan/Documents/Nextcloud/Dev/kalamapona/lib/jMusic1.6.5.jar",
+        "/home/aidan/Documents/Nextcloud/Dev/kalamapona/lib/jfugue-5.0.9.jar"
+    ]
+}
